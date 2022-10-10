@@ -1,5 +1,4 @@
-# [Dristi : Dristi :A guide for college freshers]- Contributions
-
+# Dristi : A guide for college freshers - Contributions
 
 ## Prerequisite
 * [Git](https://git-scm.com/downloads) 
