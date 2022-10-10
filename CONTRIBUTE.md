@@ -3,26 +3,80 @@
 
 ## Prerequisite
 * [Git](https://git-scm.com/downloads) 
-* Code Editor like [Vs Code](https://code.visualstudio.com/download)
-* Any other prerequisite
+* [Android Studio](https://bit.ly/3RXrm88)
+* [Firebase](https://firebase.google.com/)
 
-## Local Setup
+## Local Setup 🤩
 
-1. Fork the repository.
-2. Clone the Forked repo
-   * copy the repo link
-   * open git bash or command prompt and run the code 
-       ```
-       git clone <repo lin>
-       ```
+- Fork this repo (button on top)
+- Clone on your local machine
+
+```terminal
+git clone https://github.com/example
+```
+- Navigate to project directory.
+```terminal
+cd Hacktoberfest2022
+```
+
+- Create a new Branch
+
+```markdown
+git checkout -b my-new-branch
+```
+
+- Commit your changes.
+
+```markdown
+git commit -m "Issue or feature resolved"
+```
+- Then push 
+```markdown
+git push origin my-new-branch
+```
+
+
+- Create a new pull request from your forked repository
+
+<br>
+
+## Avoid Conflicts {Syncing your fork}
+
+An easy way to avoid conflicts is to add an 'upstream' for your git repo, as other PR's may be merged while you're working on your branch/fork.   
+
+```terminal
+git remote add upstream https://github.com/fineanmol/Hacktoberfest2022
+```
+
+You can verify that the new remote has been added by typing
+```terminal
+git remote -v
+```
+
+To pull any new changes from your parent repo simply run
+```terminal
+git merge upstream/master
+```
+
+This will give you any eventual conflicts and allow you to easily solve them in your repo. It's a good idea to use it frequently in between your own commits to make sure that your repo is up to date with its parent.
+
+For more information on syncing forks [read this article from Github](https://help.github.com/articles/syncing-a-fork/).
+
+
 ## Running the project
-1. Mention down the points how to run the project locally.
+1. After Forking and cloning this Repository to your local machine 
+2. Open Android Studio -> Go to the *file* tab (Top Left) -> Click on *Open Project*
+3. Choose the folder where you cloned the project (eg.D/Hacktoberfest2022)
+4. Choose the folder and click "*open*"
+5. Android Studio will give you a warning stating **Trust Project** Click **"Trust"**
+   <h4> Wohoo! You are now ready to Contribute 😀 </h4>
 
-## How to contribute/ Creating a PR
-[Mention how to contribute or creating a successful PR]
-Like you want the contibutors to directly contibute in the main branch or create a separate branch for new PR.
+## Creating a PR
+So After making the changes or updating any features of the app you have to make a PR (Pull Request) <br>
+to do this watch this **[Video](www.youtube.com)**
 
-## Recent updates
+<!-- ## Recent updates
 [Mention any updates]
 
 ## Any Other Info needed for the Contributions.
+ -->
