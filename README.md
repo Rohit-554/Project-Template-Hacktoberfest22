@@ -4,16 +4,22 @@
     </a>
 </p> 
 
-### [Project Title]
-Hello,
-Welcome to.. {PROJECT BASIC INTRODUCTION]
-[PROJECT DOMAIN]
-### [PREREQUISITE KNOWLEDGE]
-* List down the technical aspects like HTML, NodeJs, Django
+# Dristi : A guide to college freshers
+## ⭐ About Dristi
+**Dristi is an application that aims for bringing the best resources (Software based) for the students studying in the colleges especially for the first year.**
+## 🧑‍💻 Tech Stack / Prerequisites
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+
+✒️ MVVM
+✒️ XML
+### Other Tools
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<br>
+<br>
 
 
-
-# Hacktober Fest Accepted 
+# ⭐ Hacktober Fest Accepted 
 
 
 <p align="center">
