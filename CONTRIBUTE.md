@@ -1,4 +1,4 @@
-# [PROJECT NAME]- Contributions
+# [Dristi : Dristi :A guide for college freshers]- Contributions
 
 
 ## Prerequisite
@@ -6,7 +6,7 @@
 * [Android Studio](https://bit.ly/3RXrm88)
 * [Firebase](https://firebase.google.com/)
 
-## Local Setup 🤩
+## Local Setup 💻
 
 - Fork this repo (button on top)
 - Clone on your local machine
